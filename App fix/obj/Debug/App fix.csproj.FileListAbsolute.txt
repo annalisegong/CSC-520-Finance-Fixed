@@ -1,0 +1,13 @@
+C:\Users\anna gong\source\repos\App fix\App fix\bin\Debug\App fix.exe.config
+C:\Users\anna gong\source\repos\App fix\App fix\bin\Debug\App fix.exe
+C:\Users\anna gong\source\repos\App fix\App fix\bin\Debug\App fix.pdb
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App fix.csproj.AssemblyReference.cache
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App fix.csproj.SuggestedBindingRedirects.cache
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App_fix.Calculate.resources
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App_fix.CurrentP.resources
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App_fix.HomePage.resources
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App_fix.Properties.Resources.resources
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App fix.csproj.GenerateResource.cache
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App fix.csproj.CoreCompileInputs.cache
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App fix.exe
+C:\Users\anna gong\source\repos\App fix\App fix\obj\Debug\App fix.pdb
